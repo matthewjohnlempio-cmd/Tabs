@@ -1,1 +1,1 @@
-https://matthewjohnlempio-cmd.github.io/Tabs/
+https://github.com/matthewjohnlempio-cmd/Tabs
